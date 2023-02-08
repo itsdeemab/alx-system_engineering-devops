@@ -19,3 +19,8 @@ Script
 3-listfiles
 Description
 a script that displays current directory contents in a long format.
+
+Script
+4-listmorefiles
+Description
+a script that displays the current directory contents, including hidden files (starting with .)
