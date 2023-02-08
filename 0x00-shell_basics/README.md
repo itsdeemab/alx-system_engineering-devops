@@ -39,3 +39,8 @@ Script
 7-movethatfile
 Description
 a script that moves a file from one dir to another.
+
+Script
+8-firstdelete
+Description
+a script that deletes a file in a dir
