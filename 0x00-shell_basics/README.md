@@ -29,3 +29,8 @@ Script
 5-listfilesdigitonly
 Description
 a script that displays current directory contents using a long format with user and group IDs displayed numerically
+
+Script
+6-firstdirectory
+Description
+a script that creates a directory.
