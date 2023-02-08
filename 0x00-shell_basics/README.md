@@ -34,3 +34,8 @@ Script
 6-firstdirectory
 Description
 a script that creates a directory.
+
+Script
+7-movethatfile
+Description
+a script that moves a file from one dir to another.
