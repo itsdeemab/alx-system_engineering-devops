@@ -49,3 +49,8 @@ Script
 9-firstdirdeletion
 Description
 a script that deletes a directory named my_first_directory that is in the /tmp/ dir.
+
+Script
+10-back
+Description
+a script that goes one dir up or changes to the previous one
