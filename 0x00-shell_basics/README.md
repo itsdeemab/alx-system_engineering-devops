@@ -64,3 +64,8 @@ Script
 12-file_type
 Description
 a script that prints a type of file located in the tmp dir
+
+Script
+13-symbolic_link
+Description
+a script that creates a symblic link
