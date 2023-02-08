@@ -9,3 +9,8 @@ Script
 1-listit
 Description
 a script that displays the contents list of your current directory.
+
+Script
+2-bring_me_home
+Description
+a script that changes the working directory to the user’s home directory.
