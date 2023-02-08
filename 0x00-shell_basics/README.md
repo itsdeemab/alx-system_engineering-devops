@@ -59,3 +59,8 @@ Script
 11-lists
 Description
 a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+
+Script
+12-file_type
+Description
+a script that prints a type of file located in the tmp dir
