@@ -44,3 +44,8 @@ Script
 8-firstdelete
 Description
 a script that deletes a file in a dir
+
+Script
+9-firstdirdeletion
+Description
+a script that deletes a directory named my_first_directory that is in the /tmp/ dir.
