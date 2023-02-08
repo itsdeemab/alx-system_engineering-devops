@@ -24,3 +24,8 @@ Script
 4-listmorefiles
 Description
 a script that displays the current directory contents, including hidden files (starting with .)
+
+Script
+5-listfilesdigitonly
+Description
+a script that displays current directory contents using a long format with user and group IDs displayed numerically
