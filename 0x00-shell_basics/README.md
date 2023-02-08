@@ -91,3 +91,5 @@ Description: a script that creates the directories welcome/, welcome/to/ and wel
 Script
 103-commas
 Description: a script that lists all the files and directories of the current directory, separated by commas (,).
+
+included a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
