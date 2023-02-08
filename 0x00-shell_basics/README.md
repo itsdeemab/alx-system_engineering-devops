@@ -14,3 +14,8 @@ Script
 2-bring_me_home
 Description
 a script that changes the working directory to the user’s home directory.
+
+Script
+3-listfiles
+Description
+a script that displays current directory contents in a long format.
