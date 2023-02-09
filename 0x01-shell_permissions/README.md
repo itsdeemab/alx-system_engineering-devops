@@ -25,3 +25,5 @@ Description: a script that changes the owner of the file hello t another user.
 8-James_Bond: a script that gives full permissions to other and none to user and group
 
 9-John_Doe: this is a script that sets the hello file to give full permission to the user, read and execute for group and write and execute for other.
+
+10-mirror_permissions: this is a script that references its permissions from another file.
