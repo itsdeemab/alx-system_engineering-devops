@@ -23,3 +23,5 @@ Description: a script that changes the owner of the file hello t another user.
 7-everybody:a script that that adds execution permission to the owner, the group owner and the other users, to the file hello.
 
 8-James_Bond: a script that gives full permissions to other and none to user and group
+
+9-John_Doe: this is a script that sets the hello file to give full permission to the user, read and execute for group and write and execute for other.
