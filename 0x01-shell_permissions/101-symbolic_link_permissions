@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --from=_hello vincent staff
