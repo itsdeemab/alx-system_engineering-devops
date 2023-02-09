@@ -17,3 +17,5 @@ Description: a script that changes the owner of the file hello t another user.
 4-empty: ascript that created an empty file with the name hello
 
 5-execute: Added a file that gives the user permission to execute a file
+
+6-multiple_permissions: a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
