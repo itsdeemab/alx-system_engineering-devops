@@ -11,4 +11,5 @@ using the whoami command, although id -un can also be used
 2-groups
 Description: This script prints all the groups the current user is part of.
 
-
+3-new_owner
+Description: a script that changes the owner of the file hello t another user.
