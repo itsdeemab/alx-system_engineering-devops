@@ -72,3 +72,12 @@ a script that displays all users and their home directories, sorted by users.
 
 100-empty_casks
 a command that finds all empty files and directories in the current directory and all sub-directories.
+
+101-gifs
+This script finds all files with the ".gif" extension in the current directory and its subdirectories, extracts the filenames without the extension, and sorts them in case-insensitive alphabetical order.
+
+102-acrostic
+This script takes the first character of the standard input (which could be piped from another command or entered manually), removes any newline characters, and prints the resulting string followed by a newline character.
+
+103-the_biggest_fan
+This script assumes that the host or IP address is in the first column of the TSV file, and that the TSV file is sorted by date or time. 
